@@ -56,6 +56,9 @@
 /*******************
  * State
  *******************/
- 1.
+ 1. css module  => File.module.scss
+    - import fileName from 'url'
+    - возюратить обьект с уникальными классами
+    - добавляь класс к элетенты fileName.class
 
-; Time stop : 1:20 - l2
+; Time stop : 21m - l3
